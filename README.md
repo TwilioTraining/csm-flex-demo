@@ -11,4 +11,4 @@ This repository is for students of the Twilio CSM Flex Workshop. This repository
 5. Clicking into the `build` folder you will find a file ending in `.js`. This is the file that you can drag and drop into your Twilio Assets. This will then force your Twilio hosted Flex project to change.
 
 ## Important Note
-Do not upload plugins to your Twilio Assets withouth first gettig "OK" from your Twilio instructor. Your Twilio instruction will ask you to use specific plugins at specific points during your workshop.
+Do not upload plugins to your Twilio Assets withouth first getting the "OK" from your Twilio instructor. Your Twilio instruction will ask you to use specific plugins at specific points during your workshop.

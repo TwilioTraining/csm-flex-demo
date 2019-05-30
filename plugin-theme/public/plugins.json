@@ -9,5 +9,16 @@
       }
     ],
     "src": "http://localhost:3000/plugin-theme.js"
+  }, 
+  {
+    "name": "JokePlugin",
+    "version": "0.0.0",
+    "class": "JokePlugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1"
+      }
+    ],
+    "src": "http://localhost:3001/plugin-joke.js"
   }
 ]
